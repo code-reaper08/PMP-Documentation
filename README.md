@@ -14,16 +14,29 @@ Admin side is the most powerful part of the application. This has the provisions
 ## Faculty side
 Faculty side contains a dashboard, where faculties can track and manage all the projects they are involved in. This also include abilities such as,
 
+```
 a) add a student to the portal
 b) remove a student from a portal
 c) edit project details and team
 d) edit student details
 e) set deadline for the projects
 f) delete a project from the portal
+```
 
 ## Student side
 Student side is the least of the heirarchical access control, the student side will also contain a respective dashboard to view and manage the projects.
 
-Operations available when typing 
+Operations available when typing,
+
+```
 a) Create a new project
 b) Choose faculty-in-charge
+```
+
+Operations after creating a project
+
+```
+a) Update the project description
+b) Update GitHub link
+c) Update Completion status
+```
